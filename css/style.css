@@ -167,7 +167,7 @@ main h2 {
   -ms-flex-pack: center;
   justify-content: center;
   min-height: 405px;
-  background: url("../img/sec_2_back.png");
+  background: url('../img/sec_2_back.png');
   color: #263b70;
 }
 

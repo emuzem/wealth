@@ -63,6 +63,7 @@
 body {
   display: -webkit-box;
   display: -ms-flexbox;
+  overflow-x: hidden;
   display: flex;
   margin: 0;
 }
